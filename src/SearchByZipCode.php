@@ -1,5 +1,8 @@
 <?php
 namespace Jsmake;
+/***
+*	Author: Jacson Santos
+*/
 class SearchByZipCode
 {
 	private $zipcode;
