@@ -2,8 +2,7 @@
 Search places using zip code #Brazil
 
 #### Namespace
-'''
-   php
+'''php
    <?php
     use Jsmake\SearchZipCode;
 
@@ -24,8 +23,7 @@ Search places using zip code #Brazil
 	* getGia()
 
 #### How to use
-'''
-   php
+'''php
    <?php
    	use Jsmake\SearchByZipCode;
 
