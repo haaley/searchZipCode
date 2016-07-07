@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jsmake\\' => array($baseDir . '/src'),
+    'Jsantos\\' => array($baseDir . '/src'),
 );

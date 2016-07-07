@@ -9,12 +9,12 @@ class ComposerStaticInitcc0e279f7804d851e2e639360688227e
     public static $prefixLengthsPsr4 = array (
         'J' => 
         array (
-            'Jsmake\\' => 7,
+            'Jsantos\\' => 8,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Jsmake\\' => 
+        'Jsantos\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

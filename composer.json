@@ -1,7 +1,8 @@
 {
+	"name": "jsantos/searchzipcode",
 	"autoload":{
 		"psr-4":{
-			"Jsmake\\":"src/"
+			"Jsantos\\":"src/"
 		}
 	}
 }
