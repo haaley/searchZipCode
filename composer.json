@@ -1,5 +1,10 @@
 {
 	"name": "jsantos/searchzipcode",
+	"type": "library",
+    "description": "Search datas the city using Zip Code",
+    "keywords": ["cep","zipcode"],
+    "homepage": "https://github.com/jacsonsantos/searchZipCode",
+    "license": "",
 	"autoload":{
 		"psr-4":{
 			"Jsantos\\":"src/"
