@@ -24,7 +24,7 @@ Search places using zip code #Brazil
 #### How to use
 ```php
    <?php
-   	use Jsmake\SearchByZipCode;
+   	use Jsantos\SearchByZipCode;
 
 	$zipCode = new SearchByZipCode();
 
