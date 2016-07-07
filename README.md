@@ -4,7 +4,7 @@ Search places using zip code #Brazil
 #### Namespace
 ```php
    <?php
-    use Jsmake\SearchZipCode;
+    use Jsantos\SearchZipCode;
 ```
 #### Method
 

@@ -1,5 +1,5 @@
 <?php
-namespace Jsmake;
+namespace Jsantos;
 /***
 *	Author: Jacson Santos
 */
