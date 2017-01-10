@@ -7,11 +7,12 @@ class SearchByZipCode
 {
 	private $zipcode;
 	private $data = [];
-	public function setZipCode(string $zipcode)
+	public function setZipCode($zipcode)
 	{
+		$zipcode = (string) $zipcode;
 		$char = array(".", "-");
 		$zipcode = str_replace($char,"", $zipcode);
-		$this->zipcode = (string) $zipcode;
+		$this->zipcode = $zipcode;
 		return $this;
 	}
 	public function runZipCode()
