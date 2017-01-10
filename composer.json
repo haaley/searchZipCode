@@ -9,6 +9,9 @@
         "require": {
             "jsantos/searchzipcode": "dev-master"
         },
+	"require-dev": {
+            "jsantos/searchzipcode": "dev-master"
+        },
 	"autoload":{
 		"psr-4":{
 			"Jsantos\\":"src/"
