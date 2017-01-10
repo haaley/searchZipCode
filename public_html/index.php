@@ -2,7 +2,7 @@
 chdir(dirname(__DIR__));
 ini_set("display_errors",1);
 	require_once "vendor/autoload.php";
-	use Jsmake\SearchByZipCode\SearchByZipCode;
+	use Jsmake\SearchZipCode\SearchByZipCode;
 
 	$zipCode = new SearchByZipCode();
 
