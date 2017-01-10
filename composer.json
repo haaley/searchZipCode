@@ -3,6 +3,7 @@
 	"type": "library",
     "description": "Search datas the city using Zip Code",
     "keywords": ["cep","zipcode"],
+    "minimum-stability":"stable",
     "homepage": "https://github.com/jacsonsantos/searchZipCode",
     "license": "MIT",
 	"autoload":{
