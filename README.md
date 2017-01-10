@@ -1,6 +1,10 @@
 # searchZipCode
 Search places using zip code #Brazil
 
+#### How to Install
+```txt
+   composer require jsantos/searchzipcode dev-master
+```
 #### Namespace
 ```php
    <?php
