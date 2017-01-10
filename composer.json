@@ -5,9 +5,9 @@
     "keywords": ["cep","zipcode"],
     "homepage": "https://github.com/jacsonsantos/searchZipCode",
     "license": "MIT",
-    "minimum-stability":"master",
+    "minimum-stability":"dev",
         "require": {
-            "jsantos/searchzipcode": "master"
+            "jsantos/searchzipcode": "dev-master"
         },
 	"autoload":{
 		"psr-4":{
