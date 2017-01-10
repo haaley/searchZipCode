@@ -1,5 +1,5 @@
 <?php
-namespace Jsantos\SearchByZipCode;
+namespace Jsantos\SearchZipCode;
 /***
 *	Author: Jacson Santos
 */
